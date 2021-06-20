@@ -5,7 +5,7 @@ date: 2021-06-20 09:14:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/06/20/logolrcv.svg"
+  logo: "/uploads/2021/06/20/lcrv.jpg"
   navigation:
   - link: "#"
     link_text: contact me
