@@ -5,7 +5,7 @@ image_1:
   caption: t1
 image_2:
   image: "/uploads/2018/06/21/product-shot-1.png"
-  caption: ''
+  caption: t2
 published: false
 
 ---
