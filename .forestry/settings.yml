@@ -8,9 +8,6 @@ sections:
   path: FORESTRY-README.md
   label: Welcome - First Steps
   read_only: true
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: directory
   path: ''
   label: Pages
@@ -18,6 +15,9 @@ sections:
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
+- type: jekyll-posts
+  label: Posts
+  create: all
 - type: document
   path: _config.yml
   label: Config
