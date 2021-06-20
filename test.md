@@ -5,11 +5,17 @@ date: 2021-06-20 09:14:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: ''
-  navigation: []
+  logo: "/uploads/2021/06/20/logolrcv.svg"
+  navigation:
+  - link: "#"
+    link_text: contact me
+  - link: "#"
+    link_text: cv
+  - link_text: about
+    link: "#"
   cta:
-    url: ''
-    button_text: ''
+    url: "#"
+    button_text: More
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
