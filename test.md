@@ -18,7 +18,7 @@ page_sections:
     button_text: More
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2018/06/21/product-shot-1.png"
   image:
     image: ''
     alt_text: ''
