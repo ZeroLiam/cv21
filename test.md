@@ -35,9 +35,9 @@ page_sections:
   caption: ''
 - template: 4-column-footer
   block: footer-2
-  image: ''
-  col_2: ''
-  col_3: ''
-  col_4: ''
+  image: "/uploads/2021/06/20/logolrcv.svg"
+  col_2: Test 1
+  col_3: Test 2
+  col_4: Test 3
 
 ---
